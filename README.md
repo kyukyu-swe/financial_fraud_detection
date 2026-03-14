@@ -1,4 +1,4 @@
-# Omise Real-Time Fraud Detection
+# Real-Time Fraud Detection
 
 AI-powered fraud detection demo using LangGraph, Isolation Forest, FastAPI, and Streamlit.
 
